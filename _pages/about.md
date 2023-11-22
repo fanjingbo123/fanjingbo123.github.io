@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), BUPT. My research interest includes recommendation system, data mining, machine learning.
+I'm a third year undergraduate student from [International School](https://is.bupt.edu.cn/), BUPT. My research interest includes recommendation system, data mining, machine learning.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by Prof. Pengfei Wang of [State Key Laboratory Of Networking And Switching Technology](https://sklnst.bupt.edu.cn/index.htm) from [School of Computer Science](https://scs.bupt.edu.cn/), BUPT. 
 
 You can find my CV here: [Fan Jingbo's Curriculum Vitae](../assets/CV_Jingbo Fan.pdf).
